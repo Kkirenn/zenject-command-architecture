@@ -1,0 +1,25 @@
+/[Ll]ibrary/
+/[ explosions]/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Obj]/
+/[Tt]emp/
+
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.com.apple.deathtrap
+.vs/
+
+/[Pp]ackages/manifest.json
+/[Pp]ackages/packages-lock.json
+!/[Pp]ackages/manifest.json
+
+.DS_Store
+Thumbs.db
